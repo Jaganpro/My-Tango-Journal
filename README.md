@@ -59,8 +59,23 @@ From the outside, this execution looks like exactly we go together, but we are a
 * Downward Position (Little bit lowered or relaxation in the knees)
 * Upward Position - ONLY APPLIES TO WOMEN. Here the man can suspending the women upw. He won't be suspending himself during that time.
 
-  
+### Change of Weight of the Body
 
+The resposibility of the Man is to make sure that he is aware and leads/manages 
+1. Axis
+2. Steps
+3. Awareness about weight of the leg
+
+NOTE: Make sure that we shift the weight of the partner to one leg before any movement.(Most cases)
+
+### Contain Vs Release
+
+* Containing the Women vs the freedom to let the women do the movement.
+* This must be done by adjusting the embrace - Either loose embrace vs tight embrace (Many degrees of variability depending on the movement)
+
+### Different Energy
+
+* Circular Energy - 
 
 
 
