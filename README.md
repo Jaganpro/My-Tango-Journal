@@ -2,7 +2,7 @@
 
 I have been a multi-disciplinary dancer for many years now. I started my dancing journey in 2012 with the first lesson on how to do basic salsa steps. My curiosity with dance have helped me grow personally and professionally and it has many positive effects in my life. I do Salsa, Bachata, Meringue, Waltz, East and West coast swing. Last year, i stumbled upon Tango and i instantly got attracted towards this art due to its complexity, precition and technique required for its execution.
 
-Tango takes many years to become an advanced beginner or intermediate dancer. It has strict rules on what to do and not to do in Milongas. Many of them spend lifetime perfecting tango.
+Tango takes many years to become an advanced beginner or intermediate dancer. It has strict rules on what to do and not to do in Milongas. Many of them spend their lifetime perfecting tango.
 
 This repository documents tnaog techniques i have learnt from many instructurs around US as a travel consultant.
 
