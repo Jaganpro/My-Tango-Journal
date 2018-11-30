@@ -1,14 +1,14 @@
 # My-Tango-Journal
 
-I have been a multi-disciplinary dancer for many years now. I started my dancing journey in 2012 with the first lesson on how to do basic salsa steps. My curiosity with dance have helped me grow personally and professionally and it has many positive effects in my life. I do Salsa, Bachata, Meringue, Waltz, East and West coast swing. Last year, i stumbled upon Tango and i instantly got attracted towards this art due to its complexity, precition and technique required for its execution.
+I have been a multi-disciplinary dancer for many years now. I started my dancing journey in 2012 with my first lesson on some basic salsa steps. I do Salsa, Bachata, Meringue, Waltz, East and West coast swing. Last year, i stumbled upon Tango and i instantly got attracted towards this dance due to its complexity, precition and technique required for its execution.
 
 Tango takes many years to become an advanced beginner or intermediate dancer. It has strict rules on what to do and not to do in Milongas. Many of them spend their lifetime perfecting tango.
 
-This repository documents tnaog techniques i have learnt from many instructurs around US as a travel consultant.
+This repository documents all tango techniques i have learnt over the course of last few years.
 
 ### Understanding Tango
 
-(1) First we must have a very good understanding of what we want, (2) then have the ability to communicate that with your partner and (3) then give them time to execute the movements. 
+(1) First, as a leader, we must have a very good understanding of what we want, (2) then have the ability to communicate the lead with your partner and (3) then give them time to execute the movements. 
 
 
 ### Basic Concepts: Posture, Embrace and Moving Together
@@ -48,16 +48,16 @@ This repository documents tnaog techniques i have learnt from many instructurs a
 ### Basic Tango Execution Pattern
 
 * Sending the Partner first (Initiation)
-* Waiting for the Partner to do the movement
+* Waiting for the Partner to execute the movement
 * Step with the Partner (End the movement exactly at the same time with the Partner)
 
-From the outside, this execution looks like exactly we go together, but we are always leading the partner little bit first.
+From outside, this execution looks exactly like we do together, but we are always leading the partner first, before we step in tango.
 
 ### Body Levels
 
 * Neutral Position
 * Downward Position (Little bit lowered or relaxation in the knees)
-* Upward Position - ONLY APPLIES TO WOMEN. Here the man can suspending the women upw. He won't be suspending himself during that time.
+* Upward Position - ONLY APPLIES TO WOMEN. Here the man can suspending the women upwards. He won't be suspending himself when suspending women.
 
 ### Change of Weight of the Body
 
