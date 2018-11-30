@@ -83,6 +83,10 @@ NOTE: Make sure that we shift the weight of the partner to one leg before any mo
 * Basic types of walk Systems:
   * Parallel System - Torso in-front of the partner
   * Cross System - Position the body slightly to the side + slight release of the embrace (30% lets say) 
+  
+
+* Switching from Cross System to Parallel System
+  * https://www.youtube.com/watch?v=xg73t0x9jpM
 
 ### Tango Flowchart 
  
