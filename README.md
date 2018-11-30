@@ -27,7 +27,7 @@ This repository documents tnaog techniques i have learnt from many instructurs a
   * Leaders Left Hand - 
     * We don't do much leading with left hand in traditional tango (With few exceptions) 
     * Used as reference point / point of stability
-    * Reference point - Man's eye level
+    * Reference point - Have a nice curvature of the arms and the height to be at Man's eye level
     
   
 To be continued!
