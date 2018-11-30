@@ -94,12 +94,24 @@ In coming days, i will be redoing this flowchart. Stay tuned!
 
 ### Advanced Movements:
 
-1. Enrosque and Lapiz 
+1. Enrosque + Lapiz 
 
-https://youtu.be/0nKYjZMZ_e4
+* https://youtu.be/0nKYjZMZ_e4
 
 
 2. Barrida
 
-https://youtu.be/0-4taZjoHG0
+* https://youtu.be/0-4taZjoHG0
 
+3. Sacada
+
+
+4. ocho curtado
+
+5. Molinete
+
+6. Boleo
+
+7. Calecita
+
+8. Forward and Backward Ochos
