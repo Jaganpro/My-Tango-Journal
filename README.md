@@ -75,7 +75,9 @@ NOTE: Make sure that we shift the weight of the partner to one leg before any mo
 
 ### Different Energy
 
-* Circular Energy - 
+* Circular Energy - ( Example, Suspending women in one leg and turning women left and right)
+* Square Energy - (Example, Square like U)
+
 
 
 
