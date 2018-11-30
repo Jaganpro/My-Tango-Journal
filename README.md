@@ -88,7 +88,7 @@ NOTE: Make sure that we shift the weight of the partner to one leg before any mo
  
 ![image](https://user-images.githubusercontent.com/2145211/49276797-8375e180-f44d-11e8-824f-fe0903c577ca.png)
 
-Credits to Chijenlu for the cheatsheet. 
+Credits to Chijenlu for this cheatsheet. 
 In coming days, i will be redoing this flowchart. Stay tuned!
 
 
