@@ -92,12 +92,14 @@ Credits to Chijenlu for the cheatsheet.
 In coming days, i will be redoing this flowchart. Stay tuned!
 
 
+### Advanced Movements:
+
+1. Enrosque and Lapiz 
+
+https://youtu.be/0nKYjZMZ_e4
 
 
+2. Barrida
 
-
-
-
-
-
+https://youtu.be/0-4taZjoHG0
 
