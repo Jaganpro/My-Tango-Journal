@@ -78,10 +78,18 @@ NOTE: Make sure that we shift the weight of the partner to one leg before any mo
 * Circular Energy - ( Example, Suspending women in one leg and turning women left and right)
 * Square Energy - (Example, Square like U)
 
+### Basic Tango Movements
 
+* Basic types of walk Systems:
+  * Parallel System - Torso in-front of the partner
+  * Cross System - Position the body slightly to the side + slight release of the embrace (30% lets say) 
 
+### Tango Flowchart 
+ 
+![image](https://user-images.githubusercontent.com/2145211/49276797-8375e180-f44d-11e8-824f-fe0903c577ca.png)
 
-
+Credits to Chijenlu for the cheatsheet. 
+In coming days, i will be redoing this flowchart. Stay tuned!
 
 
 
