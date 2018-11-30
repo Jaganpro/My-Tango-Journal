@@ -21,10 +21,10 @@ This repository documents tnaog techniques i have learnt from many instructurs a
 * Embrace (Connection with Partner)
   * Leaders Right Hand / Right Arm - This is the space in which women dances, so that we make sure that our hands are very well placed on her back
   * Position of the hand - Depends on the body type, height of the partner etc. (Middle of the back, waist etc.). Make sure that we place our hands so that the placement entails maximum contact (flat). This ensures that women feel sense of security.
-  * Parts used:
+  * Parts used
     * Hand (Much contact along women's back) 
     * Inside of the forearm (Much contact along women's back)
-  * Leaders Left Hand - 
+  * Leaders Left Hand
     * We don't do much leading with left hand in traditional tango (With few exceptions) 
     * Used as reference point / point of stability
     * Reference point - Have a nice curvature of the arms and the height to be at Man's eye level
@@ -52,6 +52,13 @@ This repository documents tnaog techniques i have learnt from many instructurs a
 * Step with the Partner (End the movement exactly at the same time with the Partner)
 
 From the outside, this execution looks like exactly we go together, but we are always leading the partner little bit first.
+
+### Body Levels
+
+* Neutral Position
+* Downward Position (Little bit lowered or relaxation in the knees)
+* Upward Position - ONLY APPLIES TO WOMEN. Here the man can suspending the women upw. He won't be suspending himself during that time.
+
   
 
 
