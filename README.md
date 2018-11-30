@@ -29,6 +29,43 @@ This repository documents tnaog techniques i have learnt from many instructurs a
     * Used as reference point / point of stability
     * Reference point - Have a nice curvature of the arms and the height to be at Man's eye level
     
+### Leading Tools in Tango
+
+* Wrist
+* Forearm
+* Bicep area
+* Inner Thigh
+* Outer Thigh
+* Inner Foot
+* Outer Foot
+    
+### The Three Directions
+
+* Forward
+* Backward
+* 2 Sides (Right and Left)
+
+### Basic Tango Execution Pattern
+
+* Sending the Partner first (Initiation)
+* Waiting for the Partner to do the movement
+* Step with the Partner (End the movement exactly at the same time with the Partner)
+
+From the outside, this execution looks like exactly we go together, but we are always leading the partner little bit first.
   
-To be continued!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
