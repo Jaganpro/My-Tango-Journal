@@ -107,6 +107,7 @@ In coming days, i will be redoing this flowchart. Stay tuned!
 * Sacada
 
 * Ocho curtado
+  * https://youtu.be/04W3ZKKVopI
 
 * Molinete
 
@@ -117,3 +118,13 @@ In coming days, i will be redoing this flowchart. Stay tuned!
 * Forward and Backward Ochos
 
 * Volcada
+
+
+### My Notes for Various Classes
+
+* 11/30/2018 - Ocho Curtado and Axis
+  * Leaders should always pay attention to the their own axis and partner axis
+    * Leaders Axis is used when we lead molinete.
+    * Partner's Axis is used when we lead Back ocho to partner. 
+  * When Partner's Axis is used, leaders must going around the partner. It is a subtle change in lead, but it makes a huge difference on how the partners feel the lead.
+  * Remember disassociation of body
