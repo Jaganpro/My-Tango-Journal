@@ -122,9 +122,17 @@ In coming days, i will be redoing this flowchart. Stay tuned!
 
 ### My Notes for Various Classes
 
-* 11/30/2018 - Ocho Curtado and Axis
+* **11/30/2018** - Ocho Curtado and Axis 
   * Leaders should always pay attention to the their own axis and partner axis
     * Leaders Axis is used when we lead molinete.
     * Partner's Axis is used when we lead Back ocho to partner. 
   * When Partner's Axis is used, leaders must going around the partner. It is a subtle change in lead, but it makes a huge difference on how the partners feel the lead.
   * Remember disassociation of body
+  
+* **12/02/2018** - Doing continuous Ocho Curtado using left lead
+  * One of the important tips i got from today's lesson was the usage of "Lat muscle" and be aware of the lat muscle to turn and lead women. This is especially a critical aspect for me to lead the women correctly, because i use my hand a lot to lead women which may be confusing for my partner.
+  
+  * How different is molinete and left Ocho Curtado and how to differentiate the lead? 
+    * Molinete lead is a constant linear motion on the left or right
+    * The axis of the women tend to be neutral, so that they can do the forward and backwared ochos.
+    * For Ocho Curtado, the axis of the women is leaning more towards men, (But note the women can still hold their own axis), a side step and a quick twist. The position of the leaders legs remains constant. 
