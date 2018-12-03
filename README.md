@@ -136,3 +136,4 @@ In coming days, i will be redoing this flowchart. Stay tuned!
     * Molinete lead is a constant linear motion on the left or right
     * The axis of the women tend to be neutral, so that they can do the forward and backwared ochos during molinete.
     * For Ocho Curtado, the axis of the women is leaning more towards men, (But note the women can still hold their own axis), a side step and a quick twist. The position of the leaders legs remains constant. 
+  * Link to the Video: https://youtu.be/jHzoeuvhPFo
