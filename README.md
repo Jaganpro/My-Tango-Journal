@@ -96,6 +96,12 @@ Credits to Chijenlu for this cheatsheet.
 In coming days, i will be redoing this flowchart. Stay tuned!
 
 
+### Basic Movements:
+
+* Back Ochos and Front Ochos
+  * https://youtu.be/i78SrovHbAE
+
+
 ### Advanced Movements:
 
 * Enrosque + Lapiz 
