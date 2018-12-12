@@ -138,3 +138,10 @@ In coming days, i will be redoing this flowchart. Stay tuned!
     * The axis of the women tend to be neutral, so that they can do the forward and backwared ochos during molinete.
     * For Ocho Curtado, the axis of the women is leaning more towards men, (But note the women can still hold their own axis), a side step and a quick twist. The position of the leaders legs remains constant. 
   * Class Video: https://youtu.be/jHzoeuvhPFo
+  
+* **12/10/2018** - Back Ocho and Front Ocho
+  * In this class, i was taught how to easily transition from leading side step to back Ocho.
+  * To lead this, after leader's side step, the leader have to change foot while transitioning follower into back ocho.
+  * By this way the follower would not be able to feel leader's switch of legs. 
+  * After doing couple of Back Ochos, switch the leg again to go with Parallel System 
+  * Class Video: https://youtu.be/i78SrovHbAE
