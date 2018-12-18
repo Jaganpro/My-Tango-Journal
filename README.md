@@ -126,7 +126,7 @@ In coming days, i will be redoing this flowchart. Stay tuned!
 * Volcada
 
 
-### My Notes for Various Classes
+### My Notes from Various Classes
 
 * **11/30/2018** - Ocho Curtado and Axis 
   * Leaders should always pay attention to the their own axis and their partner axis
