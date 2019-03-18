@@ -84,7 +84,6 @@ NOTE: Make sure that we shift the weight of the partner to one leg before any mo
   * Parallel System - Torso in-front of the partner
   * Cross System - Position the body slightly to the side + slight release of the embrace (30% lets say) 
   
-
 * Switching from Cross System to Parallel System
   * https://www.youtube.com/watch?v=xg73t0x9jpM
 
@@ -152,7 +151,7 @@ In coming days, i will be redoing this flowchart. Stay tuned!
   * After doing couple of Back Ochos, switch the leg again to go with Parallel System 
   * Class Video: https://youtu.be/i78SrovHbAE
 
-* **3/18/2019** - Practica
+* **3/18/2019** - Walks and Musicality
   * When holding my partner, the right hand must not produce a lot of pressure when holding. Have enough pressure to lead, but not lot of pressure to tip the partner over the axis.
   * Always remember to keep the shoulders relaxed - I make this mistake a lot even though it is not prominent - This is especially useful when you are going to dance for many hours. Your shoulders would get tired if i do not continue to keep it relaxed.
   
