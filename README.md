@@ -153,7 +153,7 @@ In coming days, i will be redoing this flowchart. Stay tuned!
 
 * **3/18/2019** - Walks and Musicality
   * When holding my partner, the right hand must not produce a lot of pressure when holding. Have enough pressure to lead, but not lot of pressure to tip the partner over the axis.
-  * Always remember to keep the shoulders relaxed - I make this mistake a lot even though it is not prominent - This is especially useful when you are going to dance for many hours. Your shoulders would get tired if i do not continue to keep it relaxed.
+  * Always remember to keep the shoulders relaxed - I make this mistake a lot even though it is not prominent - This is especially useful when you are going to dance for many hours. Your shoulders would get tired if you do not continue to keep it relaxed.
   
   
   
